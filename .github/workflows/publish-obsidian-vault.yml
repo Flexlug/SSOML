@@ -4,13 +4,5 @@ jobs:
   Publish-Obsidian-Vault:
     runs-on: ubuntu-latest
     steps:
-      - name: Publish Vault
-        uses: project-cool/obsidian-publish-action@main
-        with:
-          websiteId: "140a0efd-3bc3-4a71-979a-1d8651b27c0a" # required
-          log_level: "debug"                      
-          token: ${{ secrets.NETLIFY_TOKEN }}    # required
-          branch: "master"  
-          image_resolution: 1920
-          compression_factor: 20
-          suppress_mkdocs_logs: true   
+      - name: Deploy MkDocs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@1.25
