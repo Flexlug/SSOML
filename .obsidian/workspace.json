@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "1a765e3878b4cd51",
+    "type": "split",
+    "children": [
+      {
+        "id": "c073e8f088bf7cd1",
+        "type": "tabs",
+        "dimension": 41.14441416893733,
+        "children": [
+          {
+            "id": "213758db4a73b402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вопросы/№2 - Полугруппы и моноиды.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5b301f73359e5015",
+        "type": "tabs",
+        "dimension": 58.85558583106267,
+        "children": [
+          {
+            "id": "311bab6b32fee483",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "files/не убоюсь зла.pdf"
+              }
+            }
+          },
+          {
+            "id": "f8ed3c1a751ab0a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "№4/Теорема о порядке элементов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f32b0550078731d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a97cac1d25019b76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43014c00cc31cb13",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e96d219212d24341",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "система ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02a848630f5eb7aa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "c78534ae3647e872",
+    "type": "split",
+    "children": [
+      {
+        "id": "020295b40ff3ddbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6174c5b5c4ba649",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "№4/Теорема о порядке элементов.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a57782b5f6087c1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "№4/Теорема о порядке элементов.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "252e288a271e7991",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c6f024a1509695a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "№4/Теорема о порядке элементов.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f8ed3c1a751ab0a1",
+  "lastOpenFiles": [
+    "Вопросы/№2 - Полугруппы и моноиды.md",
+    "№4/Теорема о порядке элементов.md",
+    "Симметрическая группа.md",
+    "№2/Подполугруппа.md",
+    "Перестановка.md",
+    "Без названия.md",
+    "№5 - Симметрическая и знакопеременная группы.md",
+    "№4/Кардинальное число.md",
+    "Вопросы/№4 - Системы образующих группы. Циклические группы.md",
+    "№1/Биекция.md"
+  ]
+}
