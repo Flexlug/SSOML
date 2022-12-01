@@ -6,7 +6,6 @@
       {
         "id": "c073e8f088bf7cd1",
         "type": "tabs",
-        "dimension": 41.14441416893733,
         "children": [
           {
             "id": "213758db4a73b402",
@@ -14,43 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы/№2 - Полугруппы и моноиды.md",
+                "file": "notes/Перестановка.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "5b301f73359e5015",
-        "type": "tabs",
-        "dimension": 58.85558583106267,
-        "children": [
-          {
-            "id": "311bab6b32fee483",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "files/не убоюсь зла.pdf"
-              }
-            }
-          },
-          {
-            "id": "f8ed3c1a751ab0a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "№4/Теорема о порядке элементов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "№4/Теорема о порядке элементов.md",
+                "file": "notes/Перестановка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "№4/Теорема о порядке элементов.md",
+                "file": "notes/Перестановка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "№4/Теорема о порядке элементов.md"
+                "file": "notes/Перестановка.md"
               }
             }
           }
@@ -167,10 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f8ed3c1a751ab0a1",
+  "active": "213758db4a73b402",
   "lastOpenFiles": [
-    "Вопросы/№2 - Полугруппы и моноиды.md",
     "№4/Теорема о порядке элементов.md",
+    "Вопросы/№2 - Полугруппы и моноиды.md",
     "Симметрическая группа.md",
     "№2/Подполугруппа.md",
     "Перестановка.md",
