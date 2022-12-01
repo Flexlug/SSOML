@@ -13,9 +13,134 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Вопросы/№5 - Симметрическая и знакопеременная группы.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e366a4863f48aa28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/№5/Мощность симметрической группы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4d87395e139331d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/№5/Пи-эквивалентность.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc4d2777136872c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/№5/Мощность симметрической группы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0608a0e7b6b3777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "№6 - Бинарные отношения. Отношение эквивалентности.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44e12dbddc4bd9e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бинарное отношение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81039c9f64437e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Отношение эквивалентности.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b512c9835f3cba9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Представитель класса.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31a037c78a260127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Класс эквивалентности.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a97a6506ff23f722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "af7adc4df5c2b7ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a677ab42ecdbb95",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "docs/files/не убоюсь зла.pdf"
               }
             }
           }
@@ -85,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "Без названия.md"
               }
             }
           }
@@ -136,17 +261,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3e0b156730a614ba",
+  "active": "a97a6506ff23f722",
   "lastOpenFiles": [
-    "notes/index.md",
-    "notes/files/не убоюсь зла.pdf",
-    "notes/Перестановка.md",
-    "№4/Теорема о порядке элементов.md",
-    "Вопросы/№2 - Полугруппы и моноиды.md",
-    "Симметрическая группа.md",
-    "№2/Подполугруппа.md",
-    "Перестановка.md",
-    "№5 - Симметрическая и знакопеременная группы.md",
-    "№4/Кардинальное число.md"
+    "Класс эквивалентности.md",
+    "Представитель класса.md",
+    "Отношение эквивалентности.md",
+    "Бинарное отношение.md",
+    "№6 - Бинарные отношения. Отношение эквивалентности.md",
+    "docs/№5/Мощность симметрической группы.md",
+    "docs/Вопросы/№5 - Симметрическая и знакопеременная группы.md",
+    "docs/№5/Отношение п-эквивалентности является отношением эквивалентности.md",
+    "docs/№5/Пи-эквивалентность.md",
+    "docs/№4/Циклическая группа.md"
   ]
 }
