@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c073e8f088bf7cd1",
+        "id": "c2fefccd9d49160f",
         "type": "tabs",
         "children": [
           {
-            "id": "213758db4a73b402",
+            "id": "3e0b156730a614ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Перестановка.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Перестановка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Перестановка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/Перестановка.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,8 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "213758db4a73b402",
+  "active": "3e0b156730a614ba",
   "lastOpenFiles": [
+    "notes/files/не убоюсь зла.pdf",
+    "notes/Перестановка.md",
     "№4/Теорема о порядке элементов.md",
     "Вопросы/№2 - Полугруппы и моноиды.md",
     "Симметрическая группа.md",
@@ -145,8 +139,6 @@
     "Перестановка.md",
     "Без названия.md",
     "№5 - Симметрическая и знакопеременная группы.md",
-    "№4/Кардинальное число.md",
-    "Вопросы/№4 - Системы образующих группы. Циклические группы.md",
-    "№1/Биекция.md"
+    "№4/Кардинальное число.md"
   ]
 }

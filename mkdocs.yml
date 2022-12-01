@@ -1,50 +1,13 @@
 site_name: SSOML
 site_url: https://ssoml.netlify.app/
+site_dir: public
 docs_dir: ./notes
+
 theme:
   name: material
-
-  features:
-    - navigation.tabs
-    - navigation.top
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/lightbulb
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: teal
-      accent: teal
-      toggle:
-        icon: material/lightbulb-outline
-        name: Switch to light mode
+    scheme: slate
 
 markdown_extensions:
-  - meta
-  - toc:
-      permalink: true
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-
-extra:
-  homepage: https://ssoml.netlify.app/
-
-  social:
-    - icon: fontawesome/brands/linkedin
-      link: https://www.twitter.com
-    - icon: fontawesome/brands/youtube
-      link: https://www.twitter.com
-    - icon: fontawesome/brands/instagram
-      link: https://www.twitter.com
-
-copyright: Copyright &copy; 2022 Flexlug
+  - attr_list
+  - md_in_html
