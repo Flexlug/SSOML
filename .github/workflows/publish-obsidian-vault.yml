@@ -10,7 +10,7 @@ jobs:
           websiteId: "140a0efd-3bc3-4a71-979a-1d8651b27c0a" # required
           log_level: "info"                      
           token: ${{ secrets.NETLIFY_TOKEN }}    # required
-          branch: "publish"  
+          branch: "master"  
           image_resolution: 1920
           compression_factor: 20
           suppress_mkdocs_logs: true   
