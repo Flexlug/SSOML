@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "docs/№1/Алгебраическая система, структура.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "docs/№1/Алгебраическая система, структура.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
+                "file": "docs/№1/Алгебраическая система, структура.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md"
+                "file": "docs/№1/Алгебраическая система, структура.md"
               }
             }
           }
@@ -263,6 +263,7 @@
   },
   "active": "a97a6506ff23f722",
   "lastOpenFiles": [
+    "Без названия.md",
     "Класс эквивалентности.md",
     "Представитель класса.md",
     "Отношение эквивалентности.md",
@@ -271,7 +272,6 @@
     "docs/№5/Мощность симметрической группы.md",
     "docs/Вопросы/№5 - Симметрическая и знакопеременная группы.md",
     "docs/№5/Отношение п-эквивалентности является отношением эквивалентности.md",
-    "docs/№5/Пи-эквивалентность.md",
-    "docs/№4/Циклическая группа.md"
+    "docs/№5/Пи-эквивалентность.md"
   ]
 }
