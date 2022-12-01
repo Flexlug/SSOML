@@ -3,7 +3,7 @@ name: SSOML
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   deploy:
