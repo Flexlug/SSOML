@@ -8,7 +8,7 @@ jobs:
         uses: project-cool/obsidian-publish-action@main
         with:
           websiteId: "140a0efd-3bc3-4a71-979a-1d8651b27c0a" # required
-          log_level: "info"                      
+          log_level: "debug"                      
           token: ${{ secrets.NETLIFY_TOKEN }}    # required
           branch: "master"  
           image_resolution: 1920
