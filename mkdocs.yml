@@ -17,6 +17,7 @@ markdown_extensions:
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
   - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
   - nl2br # newline-to-break 
+  - mdx_math # latex support
   - toc:
       permalink: '#' # heading anchor 
       slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
@@ -53,3 +54,6 @@ plugins:
         - "*.gz"
       regex:
         - '.*\.(tmp|bin|tar)$'
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML
