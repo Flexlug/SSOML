@@ -1,4 +1,6 @@
 site_name: SSOML
+site_url: https://ssoml.netlify.app/
+docs_dir: ./notes
 theme:
   name: material
 
