@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/№7/Изоморфмизм циклических групп.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,16 +24,11 @@
             "id": "42b02d78058f731e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "№8 - Смежные классы. Теорема Лагранжа.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "af7adc4df5c2b7ef",
@@ -79,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "огл",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "№8 - Смежные классы. Теорема Лагранжа.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "№8 - Смежные классы. Теорема Лагранжа.md",
+                "file": "docs/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "№8 - Смежные классы. Теорема Лагранжа.md"
+                "file": "docs/index.md"
               }
             }
           }
@@ -167,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "42b02d78058f731e",
+  "active": "4f0d95c8a78d17e5",
   "lastOpenFiles": [
+    "docs/Оглавление.md",
     "docs/№7/Изоморфмизм циклических групп.md",
+    "№8 - Смежные классы. Теорема Лагранжа.md",
     "docs/№7/Автоморфизм групп.md",
     "docs/Вопросы/№7 - Изоморфизмы и гомоморфизмы групп.md",
     "docs/№7/Обратимость автоморфизма.md",
     "docs/№7/Эндофорфизм.md",
     "docs/№7/Ядро гомоморфизма.md",
     "docs/№7/Гомоморфизм групп.md",
-    "docs/№7/Группа внутренних автоморфизмов.md",
-    "docs/№7/Группа относительно операции композиции.md",
-    "docs/№7/Континуальность (непрерывность).md"
+    "docs/№7/Группа внутренних автоморфизмов.md"
   ]
 }
