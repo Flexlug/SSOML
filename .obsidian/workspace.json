@@ -6,7 +6,6 @@
       {
         "id": "c2fefccd9d49160f",
         "type": "tabs",
-        "dimension": 60.03633060853769,
         "children": [
           {
             "id": "4f0d95c8a78d17e5",
@@ -26,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разбиение групп на непересекающиеся классы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "143d2fb859e8bab9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "docs/Лекции/02.12.2022.md",
                 "mode": "source",
                 "source": false
@@ -46,23 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "11bcf72201e1d702",
-        "type": "tabs",
-        "dimension": 39.96366939146231,
-        "children": [
-          {
-            "id": "72cc3836b73bc89b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "docs/files/не убоюсь зла.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "inf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Разбиение групп на непересекающиеся классы.md",
+                "file": "docs/Лекции/02.12.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Разбиение групп на непересекающиеся классы.md",
+                "file": "docs/Лекции/02.12.2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Разбиение групп на непересекающиеся классы.md"
+                "file": "docs/Лекции/02.12.2022.md"
               }
             }
           }
@@ -181,9 +151,9 @@
   },
   "active": "9c33e38166093c09",
   "lastOpenFiles": [
+    "Разбиение групп на непересекающиеся классы.md",
     "Представитель класса смежности.md",
     "Отношение эквивалентности для смежных классов.md",
-    "Разбиение групп на непересекающиеся классы.md",
     "docs/Лекции/02.12.2022.md",
     "№8 - Смежные классы. Теорема Лагранжа.md",
     "docs/files/не убоюсь зла.pdf",
