@@ -6,7 +6,7 @@
       {
         "id": "c2fefccd9d49160f",
         "type": "tabs",
-        "dimension": 49.905123339658445,
+        "dimension": 60.03633060853769,
         "children": [
           {
             "id": "4f0d95c8a78d17e5",
@@ -14,29 +14,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "№8 - Смежные классы. Теорема Лагранжа.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "42b02d78058f731e",
+            "id": "9c33e38166093c09",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Разбиение групп на непересекающиеся классы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "143d2fb859e8bab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Лекции/02.12.2022.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "af7adc4df5c2b7ef",
+        "id": "11bcf72201e1d702",
         "type": "tabs",
-        "dimension": 50.094876660341555,
+        "dimension": 39.96366939146231,
         "children": [
           {
-            "id": "7a677ab42ecdbb95",
+            "id": "72cc3836b73bc89b",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -74,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "огл",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "Разбиение групп на непересекающиеся классы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "Разбиение групп на непересекающиеся классы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "Разбиение групп на непересекающиеся классы.md"
               }
             }
           }
@@ -162,17 +179,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f0d95c8a78d17e5",
+  "active": "9c33e38166093c09",
   "lastOpenFiles": [
-    "docs/Оглавление.md",
-    "docs/№7/Изоморфмизм циклических групп.md",
+    "Представитель класса смежности.md",
+    "Отношение эквивалентности для смежных классов.md",
+    "Разбиение групп на непересекающиеся классы.md",
+    "docs/Лекции/02.12.2022.md",
     "№8 - Смежные классы. Теорема Лагранжа.md",
-    "docs/№7/Автоморфизм групп.md",
-    "docs/Вопросы/№7 - Изоморфизмы и гомоморфизмы групп.md",
-    "docs/№7/Обратимость автоморфизма.md",
-    "docs/№7/Эндофорфизм.md",
-    "docs/№7/Ядро гомоморфизма.md",
-    "docs/№7/Гомоморфизм групп.md",
-    "docs/№7/Группа внутренних автоморфизмов.md"
+    "docs/files/не убоюсь зла.pdf",
+    "docs/№7/Группа внутренних автоморфизмов.md",
+    "docs/№6/Отношение эквивалентности.md",
+    "docs/№7/Изоморфность групп.md",
+    "Смежные классы.md"
   ]
 }
