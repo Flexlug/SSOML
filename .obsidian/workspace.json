@@ -11,11 +11,9 @@
             "id": "4f0d95c8a78d17e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Разбиение групп на непересекающиеся классы.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/files/не убоюсь зла.pdf"
               }
             }
           },
@@ -25,14 +23,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Лекции/03.12.2022.md",
+                "file": "docs/№6/Бинарное отношение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "719c9215dbe5a759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/№6/Декартово произведение.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Лекции/03.12.2022.md",
+                "file": "docs/files/не убоюсь зла.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Лекции/03.12.2022.md",
+                "file": "docs/files/не убоюсь зла.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Лекции/03.12.2022.md"
+                "file": "docs/files/не убоюсь зла.pdf"
               }
             }
           }
@@ -149,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "721145b90c5b1fa0",
+  "active": "4f0d95c8a78d17e5",
   "lastOpenFiles": [
-    "docs/Лекции/02.12.2022.md",
-    "docs/Лекции/03.12.2022.md",
-    "Разбиение групп на непересекающиеся классы.md",
-    "№8 - Смежные классы. Теорема Лагранжа.md",
+    "docs/Вопросы/№6 - Бинарные отношения. Отношение эквивалентности.md",
+    "docs/Вопросы/№7 - Изоморфизмы и гомоморфизмы групп.md",
+    "docs/№7/Ядро гомоморфизма.md",
     "docs/files/не убоюсь зла.pdf",
-    "docs/№4/Теорема о произведении степеней.md",
-    "docs/Вопросы/№4 - Системы образующих группы. Циклические группы.md",
-    "docs/№4/Следствие о совпадении порожденной подгруппы с множеством, состоящим из единичного элемента.md",
-    "docs/№4/Теорема о пересечении семейств минимальных подгрупп.md",
-    "docs/Вопросы/№3 - Обратимые элементы. Группы.md"
+    "Разбиение групп на непересекающиеся классы.md",
+    "docs/№6/Бинарное отношение.md",
+    "docs/№6/Декартово произведение.md",
+    "docs/Вопросы/№5 - Симметрическая и знакопеременная группы.md",
+    "docs/Лекции/03.12.2022.md",
+    "docs/Лекции/02.12.2022.md"
   ]
 }
