@@ -4,57 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "c2fefccd9d49160f",
+        "id": "35a2eab8d3243b5f",
         "type": "tabs",
         "children": [
           {
-            "id": "4f0d95c8a78d17e5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "docs/files/не убоюсь зла.pdf"
-              }
-            }
-          },
-          {
-            "id": "b506edb0c6af86ca",
+            "id": "f41a2dd9f5417986",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Лекции/09.12.2022.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "721145b90c5b1fa0",
+            "id": "42c035620f2a45f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/№6/Бинарное отношение.md",
+                "file": "docs/Лекции/12.02.2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "719c9215dbe5a759",
+            "id": "e13ae34da0ab3fa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/№6/Декартово произведение.md",
+                "file": "docs/Лекции/12.02.2022.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Лекции/09.12.2022.md",
+                "file": "docs/Лекции/12.02.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Лекции/09.12.2022.md",
+                "file": "docs/Лекции/12.02.2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Лекции/09.12.2022.md"
+                "file": "docs/Лекции/12.02.2022.md"
               }
             }
           }
@@ -172,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e96d219212d24341",
+  "active": "e13ae34da0ab3fa4",
   "lastOpenFiles": [
-    "Отношение эквивалентности для смежных классов.md",
-    "docs/Лекции/09.12.2022.md",
-    "docs/Лекции/02.12.2022.md",
-    "docs/№4/Теорема о циклических подгруппах и порядке элементов циклической группы.md",
-    "docs/Лекции/03.12.2022.md",
-    "docs/files/не убоюсь зла.pdf",
-    "docs/Вопросы/№6 - Бинарные отношения. Отношение эквивалентности.md",
-    "docs/Вопросы/№7 - Изоморфизмы и гомоморфизмы групп.md",
-    "docs/№7/Ядро гомоморфизма.md",
-    "Разбиение групп на непересекающиеся классы.md"
+    "docs/Лекции/12.03.2022.md",
+    "docs/Лекции/12.09.2022.md",
+    "docs/Лекции/11.25.2022.md",
+    "docs/Лекции/12.02.2022.md",
+    "docs/Вопросы к опросу/Вопросы к опросу.md",
+    "docs/index.md",
+    "docs/Вопросы к опросу/№1 - Основные понятия и термины алгебраической криптографии.md",
+    "docs/Вопросы к опросу/№2 - Утверждение об обратимых элементах кольца ℤn.md",
+    "docs/Вопросы к опросу/№13 - Бесконечные группы и алгоритмические проблемы. Алгебраическое шифрование.md",
+    "docs/Вопросы к опросу/№15 - Голоморф групп.md"
   ]
 }
