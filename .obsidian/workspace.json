@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Лекции/12.02.2022.md",
+                "file": "docs/Лекции/12.09.2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Лекции/12.02.2022.md",
+                "file": "docs/Лекции/12.09.2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Лекции/12.02.2022.md",
+                "file": "docs/Лекции/12.09.2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Лекции/12.02.2022.md"
+                "file": "docs/Лекции/12.09.2022.md"
               }
             }
           }
@@ -164,9 +164,9 @@
   "active": "e13ae34da0ab3fa4",
   "lastOpenFiles": [
     "docs/Лекции/12.03.2022.md",
-    "docs/Лекции/12.09.2022.md",
     "docs/Лекции/11.25.2022.md",
     "docs/Лекции/12.02.2022.md",
+    "docs/Лекции/12.09.2022.md",
     "docs/Вопросы к опросу/Вопросы к опросу.md",
     "docs/index.md",
     "docs/Вопросы к опросу/№1 - Основные понятия и термины алгебраической криптографии.md",
